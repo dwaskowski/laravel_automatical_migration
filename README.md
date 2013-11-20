@@ -1,11 +1,3 @@
-/**
- * 
- * Automatical migration from modules
- *
- * @author Dmitrij Waśkowski <dima@waskowscy.pl>
- * 
- */
-
 Laravel automatical migration
 =============================
 
